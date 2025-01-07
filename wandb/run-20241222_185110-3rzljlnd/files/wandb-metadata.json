@@ -1,0 +1,42 @@
+{
+  "os":  "Linux-6.8.0-49-generic-x86_64-with-glibc2.39",
+  "python":  "CPython 3.12.3",
+  "startedAt":  "2024-12-22T23:51:10.848939Z",
+  "program":  "/home/yw3809/Projects/nattydetect/src/train.py",
+  "codePath":  "src/train.py",
+  "git":  {
+    "remote":  "https://github.com/y4umeng/nattydetect.git",
+    "commit":  "28ecd7688438f4c5746aac0001eb38c9252f0e65"
+  },
+  "email":  "yw3809@columbia.edu",
+  "root":  "/home/yw3809/Projects/nattydetect",
+  "host":  "cml88",
+  "executable":  "/home/yw3809/Projects/nattydetect/.venv/bin/python",
+  "codePathLocal":  "src/train.py",
+  "cpu_count":  24,
+  "cpu_count_logical":  32,
+  "gpu":  "NVIDIA GeForce RTX 4090",
+  "gpu_count":  1,
+  "disk":  {
+    "/":  {
+      "total":  "1966736678912",
+      "used":  "163330093056"
+    }
+  },
+  "memory":  {
+    "total":  "33486905344"
+  },
+  "cpu":  {
+    "count":  24,
+    "countLogical":  32
+  },
+  "gpu_nvidia":  [
+    {
+      "name":  "NVIDIA GeForce RTX 4090",
+      "memoryTotal":  "25757220864",
+      "cudaCores":  16384,
+      "architecture":  "Ada"
+    }
+  ],
+  "cudaVersion":  "12.4"
+}
